@@ -4,4 +4,4 @@ Você é um fazendeiro que precisa abastecer o mercado da cidade cm tomates fres
 - Evite pegar o lixo que vem da cidade
 - Abasteça o mercado para a grande festa
 
-- Para iniciar o jogo clique com o botão DIREITO do mouse, e clique a tecla ESPAÇO.
+- Para iniciar o jogo clique com o botão ESQUERDO do mouse, e clique a tecla ESPAÇO.
